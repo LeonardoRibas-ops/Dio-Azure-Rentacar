@@ -1,0 +1,11 @@
+{
+  "name": "api-bff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
